@@ -1,0 +1,3 @@
+student name: Avornicesei Catalin
+student number: 690325
+student class: IT1D 
